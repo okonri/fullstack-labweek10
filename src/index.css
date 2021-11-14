@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h1{
+  text-align: center;
+}
+
+div {
+  margin: 20px;  
+}
+
+.result, form {
+  text-align: center;
+  background-color: #ffffff;
+  width: 100%;
+  max-width: 732px;
+  padding: 16px;
+  border-color:darkgreen;
+  border-style: solid;
+}
+
+.title {
+  text-align: right;
+  color: darkgreen;
+  font-style: oblique;
+}
